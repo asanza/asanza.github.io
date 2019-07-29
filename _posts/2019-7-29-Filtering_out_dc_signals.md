@@ -43,7 +43,8 @@ like mine, you don't have really high spectations and just can manage with a sim
 filter.
 
 For these situations, (and complexer ones) there are python and its library for
-digital signal processing.  
+digital signal processing. The script bellow calculates the filter coefficients
+for an small filter with three coefficients. 
 
 ```python
 import numpy as np
